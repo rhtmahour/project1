@@ -13,8 +13,8 @@ void main() {
           centerTitle: true,
         ),
         body: const GradientContainer(
-          Colors.black,
           Colors.white,
+          Colors.black,
         ),
       )));
 }
